@@ -1,6 +1,7 @@
 /*Gerais*/
 body{
     font-family:  'Roboto', sans-serif;
+    
 
 }
 
@@ -27,5 +28,29 @@ header, .navbar{
 #nav-container{
     padding-top: 0;
     padding-bottom:0 ;
-    
+
+}
+
+#logo{
+    width: 75px;
+}
+
+.navbar-brand{
+    padding: 0;
+    color:white;
+
+}
+
+.navbar-brand:hover{
+    color: white;
+}
+
+#navbar-links a{
+    color: white;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link{
+    padding: 1rem .8rem;
+
+
 }
